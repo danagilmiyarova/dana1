@@ -1,0 +1,10 @@
+E:\Остапенко\zapis_i_open\bin\Debug\zapis_i_open.exe.config
+E:\Остапенко\zapis_i_open\bin\Debug\zapis_i_open.exe
+E:\Остапенко\zapis_i_open\bin\Debug\zapis_i_open.pdb
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.csprojAssemblyReference.cache
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.Form1.resources
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.Properties.Resources.resources
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.csproj.GenerateResource.cache
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.csproj.CoreCompileInputs.cache
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.exe
+E:\Остапенко\zapis_i_open\obj\Debug\zapis_i_open.pdb
